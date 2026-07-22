@@ -1,50 +1,105 @@
-# 🌌 Starlight Promise
+# 🌠 星光承诺 StarlightPromise
 
-> 一个送给最重要的人的 RPG 游戏。
+
+## 项目介绍
+
+《星光承诺》是一款使用 Python + Kivy 开发的小型剧情探索 RPG 游戏。
+
+目标：
+
+制作一款可以运行在 Android 手机上的治愈系 RPG 游戏。
+
 
 ---
 
-## Project
+## 项目信息
 
-Starlight Promise
+名称：
 
-Version：1.0
+StarlightPromise
 
-Engine：Python + Kivy
 
-Platform：
+版本：
+
+1.0
+
+
+引擎：
+
+Python + Kivy
+
+
+平台：
 
 - Windows
 - Android
 
----
 
-## Project Goal
+类型：
 
-开发一款约 20~30 分钟（后续扩展至 60~90 分钟）的剧情 RPG。
+剧情探索 RPG
 
-最终可以打包成 Android APK。
 
 ---
 
-## Current Status
+## 核心玩法
 
-🟢 Planning
+玩家控制主角：
 
----
+- 探索地图
+- 寻找物品
+- 触发剧情
+- 解开回忆
+- 收集星光
 
-## Project Structure
 
-docs/
+最终完成属于两个人的故事。
 
-src/
-
-assets/
-
-tests/
-
-tools/
 
 ---
 
-Copyright © 2026
+## 项目状态
+
+当前：
+
+🚧 开发中
+
+
+---
+
+## 仓库结构
+
+
+代码:
+
+StarlightPromise
+
+
+设计:
+
+StarlightPromise_GDD
+
+
+
+---
+
+## 开发目标
+
+最终生成：
+
+Android APK
+
+
+用户可以：
+
+安装
+↓
+
+打开
+
+↓
+
+游玩完整剧情
+
+
+---
